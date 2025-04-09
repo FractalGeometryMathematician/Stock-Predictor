@@ -1,0 +1,6 @@
+I and my friend analyzed the stock market and its trends for a math project several weeks back. To aid in identifying trends, I built this bot that can predict the next immediate trend and its high or low, based of fibonacci retracement patterns. 
+The input should be a specified amount of stock data points in the terminal. There is a variable within the program - len - which should be adjusted accordingly to the amount of data points inputted. 
+I built this on an ide intended for writing code for USACO problems, so it may act differently on other ides. The bot starts from the last end point of the data, assumed to be the oldest point, and works its way in, giving predictions and analysis at every point deemed important.
+Input should be several lines, but only the second String in each input line is analyzed as an inputted data. 
+Here is the code in the USACO ide, with an input already placed along with variable len set to an appropriate number: https://ide.usaco.guide/OLe3hgqg7zn-zl0ALSP 
+Here is a slide show my partner and I made to present fibonacci retracement and my bot to the class: https://docs.google.com/presentation/d/1th6MSM38wNIMC-tQpcam39D8L1TBKFcdyswAKWzrdi0/edit?usp=sharing
